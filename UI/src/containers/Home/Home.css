@@ -1,0 +1,38 @@
+.table-card {
+    width: 100%;
+}
+
+
+.ag-center-cols-container {
+    width: 100% !important;
+}
+
+
+
+.cat-jumbotron {
+    padding: 1rem 1rem !important;
+}
+
+.ag-cell-label-container{
+    color: green
+}
+
+.heading-div {
+    display: flex;
+    justify-content: space-between
+}
+
+.min-max-container{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.value-text{
+    color: green;
+}
+.datepicker-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 2em;
+}

@@ -1,0 +1,7 @@
+/Scripts
+/.idea
+/Include
+/Lib
+/pyvenv.cfg
+/api/Atria_assgn/__pycache__
+/api/sensors/__pycache__
